@@ -1,7 +1,7 @@
-## The bug report template
-*A template guide for the bug report is available [HERE](https://www.example.com). This guide provides comprehensive information about the bug report template and how to use it effectively. It can be a valuable resource for anyone using this bug report template, ensuring consistency and thoroughness in bug reporting across your project.*
+# The Bug Report template
+*A template guide for the Bug Report is available [HERE](https://github.com/imiekus/tech-doc-templates/blob/main/bug_report/guide_bug_report.md). This guide provides comprehensive information about the Bug Report template and how to use it effectively. It can be a valuable resource for anyone using this bug report template, ensuring consistency and thoroughness in bug reporting across your project.*
 
-*Please note that the text enclosed in curly brackets {} throughout this template represents placeholders. These placeholders contain writing instructions and guidelines for filling out each section of the bug report. When using this template, replace the placeholder text with your specific bug information while following the provided instructions.*
+*Please note that the text enclosed in curly brackets {} throughout this template represents placeholders. These placeholders contain writing instructions and guidelines for filling out each section of the Bug Report. When using this template, replace the placeholder text with your specific bug information while following the provided instructions.*
 
 ### Title
 
